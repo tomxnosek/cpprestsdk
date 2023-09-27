@@ -23,6 +23,7 @@
 #include <string>
 #include <system_error>
 #include <vector>
+#include <xlocale.h>
 
 #ifndef _WIN32
 #include <sys/time.h>
